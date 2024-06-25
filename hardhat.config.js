@@ -7,7 +7,7 @@ module.exports = {
     bscTestnet: {
       url: "https://bsc-testnet-rpc.publicnode.com",
       chainId: 97,
-      accounts: [`0X[PRIVATE_KEY]'],
+      accounts: [`0x[PRIVATE_KEY]'],
       gasPrice: 1e10
     },
   },
